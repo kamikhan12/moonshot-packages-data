@@ -1,0 +1,284 @@
+{
+"logoAnimation": [
+{
+            "name": "Starter Shot",
+            "category": "Logo Design Animation",
+            "price": "120",
+            "itemList": [
+                "Basic Design",
+"Basic Animation Styles",
+"2 Revisions",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Basic Shot",
+            "category": "Logo Design Animation",
+            "price": "250",
+            "itemList": [
+               "Custom Design",
+"Custom Animation Styles",
+"4 Revisions",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Premium Shot",
+            "category": "Logo Design Animation",
+            "price": "500",
+            "itemList": [
+                "Custom and Unique Design",
+"Unique and Custom Animation Styles",
+"6 Revisions",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Professional Shot",
+            "category": "Logo Design Animation",
+            "price": "800",
+            "itemList": [
+              "Custom and Professional Design",
+"Unique and Professional Animation Styles",
+"8 Revisions",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        }
+],
+"twoDAnimation": [
+    {
+            "name": "Starter Shot",
+            "category": "2D Animation",
+            "price": "200",
+            "itemList": [
+                "30sec Duration",
+"Simple Storyboard",
+"Stock Animations",
+"Background Music",
+"AI Voice Over",
+"100% Satisfaction Guaranteed",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Basic Shot",
+            "category": "2D Animation",
+            "price": "500",
+            "itemList": [
+"30sec Duration",
+"Custom Script",
+"Basic Storyboard",
+"Basic Animations",
+"Music And Foley",
+"Basic Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Premium Shot",
+            "category": "2D Animation",
+            "price": "750",
+            "itemList": [        
+"30sec Duration",
+"Professional Script",
+"Storyboard Design",
+"Fine Animations",
+"Music And Foley",
+"Premium Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Professional Shot",
+            "category": "2D Animation",
+            "price": "900",
+            "itemList": [
+                "30sec Duration",
+"Elite Script",
+"Storyboard Design",
+"HQ Animations",
+"Music And Foley",
+"Professional Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        }
+],
+"threeDAnimation" : [
+        {
+            "name": "Starter Shot",
+            "category": "3D Animation",
+            "price": "400",
+            "itemList": [         
+"30sec Duration",
+"Basic Script",
+"Stock Pre/Production/Post",
+"Rendering Service Included",
+"AI Voice Over",
+"Background Music",
+"100% Satisfaction"
+            ]
+        },
+        {
+           "name": "Basic Shot",
+            "category": "3D Animation",
+            "price": "800",
+            "itemList": [ 
+                "30sec Duration",
+"Basic Script & Concept",
+"Basic Pre/Production/Post",
+"Rendering Service Included",
+"Music and Foley",
+"Voice Over - All accents",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Premium Shot",
+            "category": "3D Animation",
+            "price": "1200",
+            "itemList": [
+"30sec Duration",
+"Premium Script & Concept",
+"Custom Pre/Production/Post",
+"Rendering Service Included",
+"Music and Foley",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Professional Shot",
+            "category": "3D Animation",
+            "price": "1400",
+            "itemList": [
+               "30sec Duration",
+"Professional Script & Concept",
+"High-End Pre/Production/Post",
+"Rendering Service Included",
+"Music and Foley",
+"Dedicated Team/100% Satisfaction"
+            ]
+        }
+    ],
+"motionGraphics" : [
+        {
+            "name": "Starter Shot",
+            "category": "Motion Graphics",
+            "price": "150",
+            "itemList": [
+ "30sec Duration",
+"Simple Storyboard",
+"Stock Animations",
+"Background Music",
+"AI Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Basic Shot",
+            "category": "Motion Graphics",
+            "price": "300",
+            "itemList": [        
+"30sec Duration",
+"Custom Script",
+"Basic Storyboard",
+"Basic Animations",
+"Music And Foley",
+"Basic Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Premium Shot",
+            "category": "Motion Graphics",
+            "price": "600",
+            "itemList": [
+"30sec Duration",
+"Premium Script",
+"Premium Storyboard Design",
+"Fine Animations",
+"Music And Foley",
+"Premium Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        },
+        {
+            "name": "Professional Shot",
+            "category": "Motion Graphics",
+            "price": "800",
+            "itemList": [
+"30sec Duration",
+"Professional Script",
+"Professional Storyboard Design",
+"HQ Animations",
+"Music And Foley",
+"Premium Voice Over",
+"Dedicated Team/100% Satisfaction"
+            ]
+        }
+    ],
+"videoEditing": [
+        {
+            "name": "Starter Shot",
+            "category": "Video Editing",
+            "price": "100",
+            "itemList": [             
+"1 min Duration",
+"Template Editing & CC",
+"Starter Transitions",
+"Premade Text Animation",
+"Free Music",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Basic Shot",
+            "category": "Video Editing",
+            "price": "250",
+            "itemList": [
+"1 min Duration",
+"Baisc Editing & CC",
+"Cool Transitions",
+"Basic Text Animation",
+"Royalty Free Music",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Premium Shot",
+            "category": "Video Editing",
+            "price": "450",
+            "itemList": [
+"1 min Duration",
+"Advance Editing & CC",
+"Dynamic Transitions",
+"Custom Text Animation",
+"Composting",
+"Royalty Free Music",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        },
+        {
+            "name": "Professional Shot",
+            "category": "Video Editing",
+            "price": "600",
+            "itemList": [
+               "1 min Duration",
+"Professional Editing & CC",
+"Dynamic/Elite Transitions",
+"Professional Text Animation",
+"Advance Composting",
+"Paid Free Music",
+"100% Satisfaction Guaranteed",
+"100% Money Back guarantee"
+            ]
+        }
+    ]
+}
+
